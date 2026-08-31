@@ -8,3 +8,23 @@ V0.1 - Build 1 - Development edition > Disponivel para download! - (finalizada) 
 V0.2 - Build 2 - Coffee Edition > Não disponivel para download - (Não finalizada) > Em desenvolvimento!
 
 Uma versão de avalição da V0.2 esta disponivel temporariamente...
+
+## 🔐 Login
+
+### V0.1
+
+Usuário padrão:
+`admin`
+
+Senha padrão:
+`1155`
+
+### V0.2
+
+Usuário padrão:
+`admin`
+
+Senha padrão:
+`1155` na versão final vai ser substituída por '1234'
+
+> A senha é utilizada apenas para o ambiente de demonstração do HorizonOS Oneplex.
