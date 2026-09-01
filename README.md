@@ -40,3 +40,10 @@ Senha atual da versão de avaliação:
 > ⚠️ A senha `1155` será substituída por `1234` na versão final.
 
 > A senha é utilizada apenas para o ambiente de demonstração do HorizonOS Oneplex.
+
+
+
+> 🔐 Credenciais de demonstração
+>
+> As credenciais abaixo existem apenas para facilitar os testes do projeto.
+> As senhas não são armazenadas em texto puro. O sistema utiliza hash para a verificação.
