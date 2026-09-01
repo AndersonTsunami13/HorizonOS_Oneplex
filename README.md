@@ -1,5 +1,7 @@
 # HorizonOS_Oneplex
 
+** Em manutenção! **
+
 Repositório para as versões do HorizonOS Oneplex.
 
 ## 📦 Versões
