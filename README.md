@@ -1,7 +1,5 @@
 # HorizonOS_Oneplex
 
-** Em manutenção! **
-
 Repositório para as versões do HorizonOS Oneplex.
 
 ## 📦 Versões
@@ -17,8 +15,6 @@ O desenvolvimento continuou na V0.2 Build 2.
 ### V0.2 - Build 2 - Coffee Edition
 **Não disponível oficialmente para download** - Em desenvolvimento
 
-Uma versão de avaliação da V0.2 está disponível temporariamente.
-
 ## 🔐 Login
 
 ### V0.1
@@ -28,16 +24,6 @@ Usuário padrão:
 
 Senha padrão:
 `1155`
-
-### V0.2
-
-Usuário padrão:
-`admin`
-
-Senha atual da versão de avaliação:
-`1155`
-
-> ⚠️ A senha `1155` será substituída por `1234` na versão final.
 
 > A senha é utilizada apenas para o ambiente de demonstração do HorizonOS Oneplex.
 
