@@ -1,0 +1,5 @@
+escrever "Horizon iniciado"
+esperar 1000
+escrever "carregando..."
+limpar
+escrever "pronto"

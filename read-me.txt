@@ -1,0 +1,21 @@
+# HorizonOS Oneplex
+
+    O HorizonOS Oneplex é a evolução do HorizonOS Professional XWin One. Seu principal objetivo é oferecer uma estrutura mais organizada, modular e prática, facilitando o desenvolvimento e a futura integração com um sistema operacional real.
+
+    O projeto foi planejado para possuir uma base de código mais limpa, corrigindo limitações encontradas nas versões anteriores e tornando a manutenção mais simples.
+
+    No futuro, o HorizonOS Oneplex poderá servir como uma camada de interface para sistemas existentes, como o Windows, permitindo substituir temporariamente a interface padrão pela interface do HorizonOS para testes e experimentação.
+
+Desenvolvimento
+
+    Caso você seja um desenvolvedor autorizado, a modificação do código-fonte é permitida, desde que sejam respeitados os termos da licença do projeto e os créditos ao HorizonOS permaneçam visíveis.
+
+---
+
+Essa versão do HorizonOS foi finalizada, porém somente para guardar alguns códigos, porque essa versão conta com muitos bugs ocultos. Talvez seja necessário refazer grande parte do co digo na versão seguinte, e por isso, caso você queira pega esse código pra estudar e modificar, está liberado, porém é obrigatório ainda deixar a marca HorizonOS no código.
+
+---
+
+Projeto: HorizonOS Oneplex
+
+Autor: Anderson_Tsunami.11Xx
