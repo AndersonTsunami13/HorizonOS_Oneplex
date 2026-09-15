@@ -13,6 +13,22 @@ O projeto nasceu como uma forma prática de estudar e experimentar conceitos rel
 
 ---
 
+
+## 📦 Versões
+
+### V0.1
+[📜 Release V0.1 - Build 1](./Release%20V0.1%20-%20Build%201.md)
+
+[📂 Código-fonte da V0.1](./V0.1%20-%20Build%201%20-%20Development%20edition/)
+
+### V0.2
+[📜 Release V0.2 - Build 2](./Release%20V0.2%20-%20Build%202.md)
+
+[📂 Código-fonte da V0.2](./V0.2%20-%20Build%202%20-%20Coffee%20Edition/)
+
+
+---
+
 🚀 Evolução do projeto
 
 V0.1 • Development Edition
