@@ -188,3 +188,22 @@ Mais experimental.
 Mais HorizonOS.
 
 Coffee Edition "beta"
+
+
+
+Mudanças da V0.1 para a V0.2
+
+identidade completa "oneplex", pois na V0.1 vocẽ ainda consegue encontrar "HorizonOS Professionaç XWin One" pelos codigos.
+Na V0.1 o terminal era basico, mas na V0.2 ficou completo e estruturado.
+A V0.1 tinha poucos comandos principais, mas na V0.2 ganhou mais comandos e sistema de modularização melhor.
+A engine na V0.1 era modular, porem experimental, na V0.2 ficou mais separada e reorganizada.
+A StatusBar na V0.1 era teoricamente simples, mas na V0.2 ficou com em modulos reunidos e aprimorados.
+A dynamic bar não era consolidada, mas apareceu bem na nessa versão.
+O modulo Threading tem a mesma estrutura nas duas versões, porem ainda não foi integrado em modulos como a StatusBar.
+As animações é uma coisa que ainda vai melhorar nas futuras atualizações do sistema, porem vocẽ vai perceber diferenças.
+A bios no inicio era em apenas em um arquivo, mas na V0.2 ficou bem mais organizada e modular.
+Nas V0.1 tinhas muitos codigos que não funcionava corretamente, mas na V0.2 praticamente todos esses codigos foram reescritos e estão funcionando.
+diferença que tem aproximadamente 3.646 linhas na V0.1 e na V0.2 subiu para 5.561 linhas.
+arquivos presente na V0.1 são 71 e na V0.2 são 118 arquivos.
+
+Outras mudanças foram feitas, mas infelizmente não lembro de todas, mas as mencionadas são as mais facil de perceber.
