@@ -1,0 +1,5 @@
+Para não da muito trabalho no upload de arquivos no repositorio, eu não
+enviei os arquivos da documentação do python aqui. Mas caso você instalar o
+.zip completo da Versão vocẽ vai ter acesso a todos arquivos completo.
+
+Espero que entenda.
