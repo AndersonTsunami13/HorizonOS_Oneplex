@@ -1,0 +1,8 @@
+# for_developers.txt
+
+    """ Esse manual é especialmente feito para o uso da engine """
+
+    Esse manual serve para uso da engine para outros programas.
+
+# Anderson_Tsunami.M3_E36
+# revision 07/10/2026
