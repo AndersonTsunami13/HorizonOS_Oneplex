@@ -1,0 +1,34 @@
+# Horzion.py
+
+from Information.dados import UI_ENGINE
+
+import sys
+
+def start_system():
+    if UI_ENGINE == "XConsole":
+        from Engine.MDL_loading1 import mdl_loading1 as loading1
+        from Engine.MDL_limpar import mdl_limpar as limpar
+        from Kernel.verification import system_verification
+        from UI.bios.bios_1 import bios_sequence
+        from UI.boot.boot_1 import boot_sequence
+        from UI.login.login import login
+        from Horizon.HorizonOS_X import iniciar_terminal
+
+        limpar()
+        loading1()
+        system_verification(False)
+        bios_sequence()
+        
+        if not bios_sequence:
+            boot_sequence()
+        else:
+            pass
+
+        login()
+        iniciar_terminal()
+    elif UI_ENGINE == "XGUI":
+        print("A interface gráfica ainda não está implementada. Por favor, use a interface XConsole.")
+        input()
+    elif UI_ENGINE == "WIN":
+        print("A interface gráfica ainda não está implementada. Por favor, use a interface XConsole.")
+        input()
