@@ -1,5 +1,6 @@
 # HorizonOS_Oneplex
 
+" A organização desse release será alterada futuramente"
 
 HorizonOS Oneplex
 
