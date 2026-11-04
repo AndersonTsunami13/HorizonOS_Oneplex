@@ -1,0 +1,41 @@
+# for_developers.txt
+
+    """ Esse manual é especialmente feito para o uso da engine """
+
+    Esse manual serve para uso da engine para outros programas.
+
+    Para usar a engine como API para os seus projetos, é recomendado
+você entender a arquitetura de funcionamento, pois por exemplo, a 
+engine precisa de algumas informações que esta na pasta information
+do horizon.
+
+
+     Os comandos da API serão organizados da melhor forma possível
+em breve...
+
+    Para usar a engine do sistema, use as chamadas:
+
+from Engine.MDL_cursor_posicionar import mdl_cursor_posicionar as cursor_posicionar
+from Engine.MDL_cursor import mdl_cursor as cursor
+from Engine.MDL_dynamic_bar import mdl_dynamic_bar_start, mdl_dynamic_bar, mdl_dynamic_bar_finish
+from Engine.MDL_enter import mdl_enter as enter
+from Engine.MDL_escrever_piscando import mdl_escrever_piscando as escrever_piscando
+from Engine.MDL_escrever import mdl_escrever as escrever
+from Engine.MDL_fundo_terminal import mdl_fundo_terminal as fundo_terminal
+// MDL_inatividade _ completar....
+from Engine.MDL_input_silencioso import mdl_input_silencioso as input_silencioso
+from Engine.MDL_janela_terminal import mdl_janela_terminal as janela_terminal
+from Engine.MDL_limpar import mdl_limpar as limpar
+from Engine.MDL_loading1 import mdl_loading1 as loading1
+from Engine.MDL_loading2 import mdl_loading2 as loading2
+from Engine.MDL_loading3 import mdl_loading3 as loading3
+from Engine.MDL_loading4 import mdl_loading4 as loading4
+from Engine.MDL_loading5 import mdl_loading5 as loading5
+from Engine.MDL_loading6 import mdl_loading6 as loading6
+from Engine.MDL_loading7 import mdl_loading7 as loading7
+from Engine.MDL_perguntar import mdl_perguntar as perguntar
+from MDL_pular_linha import mdl_pular_linha as pular_linha
+from MDL
+
+# Anderson_Tsunami.M3_E36
+# revision 26/10/2026
